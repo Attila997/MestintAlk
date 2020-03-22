@@ -1,1 +1,1 @@
-# MestintAlk
+# Király-Huszár Probléma
